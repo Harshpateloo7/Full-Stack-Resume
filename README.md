@@ -22,3 +22,31 @@
 - Jasmine, Cypress, Selenium
 - Microsoft ASP.NET, C#, MVC
 - Java, PHP, and Python
+## Work History
+### Web Developer Volunteer
+### Hamilton Hive, Hamilton, ON
+### 2022-02 - Present
+- Continuously gaining strong leadership skills by actively managing ongoing projects and constantly developing leadership abilities.
+- Demonstrating a high level of initiative while tackling difficult tasks.
+- Utilizing Node.js, React, and MongoDB technology for development.
+- Managing weekly stand-up meetings to keep everyone informed and address potential roadblocks.
+- Collaborating with the team to deliver a high-quality website that exceeds client expectations.
+## Front End Web Developer
+### Atmiya Developer, Anand, Gujarat
+### 2017-07 - 2018-08
+- Collaborated with stakeholders during development processes to confirm creative proposals and design best practices.
+- Followed SDLC best practices within Agile environment to produce rapid iterations for clients.
+- Translated UX and business requirements into elegant code solutions.
+- Managed 6+ front-end web design projects from start to finish using Bootstrap, HTML5, CSS, and JavaScript with Node.js, React and Express for server-side - functionality, resulting in 100% client satisfaction.
+- Wrote clean, elegant, and reusable code that solved complex problems.
+- Contributed ideas, suggestions in team meetings and delivered updates on deadlines, designs, and enhancement.
+## Junior Android Developer Intern
+### TOPS Technology, Vadodara, Gujarat
+### 2016-06 - 2017-05
+- Quickly Learned new skills and applied them to daily tasks, and improved efficiency and productivity.
+- Worked with senior developers to understand project requirements and collaborated in application design and development.
+- Managed time efficiently to complete all tasks within deadlines.
+- Provided professional services and support in a dynamic work environment.
+- Wrote clean, well-documented, and maintainable code on JAVA, JSON, SQL, and PHP for building applications using Android Studio.
+- Maintained and organized a database by creating schema, tables, and relationships to store data effectively.
+- Optimized SQL queries with complex join to improve database performance and efficiency.
