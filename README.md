@@ -50,3 +50,16 @@
 - Wrote clean, well-documented, and maintainable code on JAVA, JSON, SQL, and PHP for building applications using Android Studio.
 - Maintained and organized a database by creating schema, tables, and relationships to store data effectively.
 - Optimized SQL queries with complex join to improve database performance and efficiency.
+## Education
+## Post-Graduate in Web Development
+### Humber College - Etobicoke, ON
+### September 2022 - Current
+- Key Courses: HTML5, CSS3, JavaScript, DBMS, C#, ASP.NET, PHP, IXD Studio, Project Management
+## Diploma in Computer System Technician Software Support
+### Mohawk College - Hamilton, ON
+### September 2021 - April 2022
+- Key Courses: HTML5, CSS3, JavaScript, Python, JAVA, Networking, Technical Writing
+## Bachelor of Computer Science and Engineering
+### Gujarat Technological University - India
+### July 2014 - May 2017
+- Key Courses: C++, JAVA, Web Technology, DBMS, Software Engineering, Artificial Intelligence, Computer Networking 
