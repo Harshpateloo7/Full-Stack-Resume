@@ -11,3 +11,14 @@
 - Actively engages in code reviews, shares skills and methods, and works closely with team members.
 - Highly self-motivated, fast learner, and detail-oriented.
 - Outstanding customer service, communication, and interpersonal skills.
+## Skills
+- HTML5, CSS, CSS3, JavaScript
+- Agile development methodology
+- Node.js, Express, React, Vue.js
+- WordPress and Webflow
+- MySQL, PostgreSQL, MongoDB
+- Git and GitHub
+- RESTful API interfaces (JSON, XML)
+- Jasmine, Cypress, Selenium
+- Microsoft ASP.NET, C#, MVC
+- Java, PHP, and Python
